@@ -1,3 +1,4 @@
 [submodule "submodule-repo"]
 	path = submodule-repo
 	url = ../submodule-repo
+	branch = v1
